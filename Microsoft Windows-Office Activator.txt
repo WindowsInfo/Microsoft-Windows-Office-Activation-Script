@@ -1,0 +1,3 @@
+Open PowerShell with Run as Administrator.
+
+irm https:\\get.activated.win | iex
